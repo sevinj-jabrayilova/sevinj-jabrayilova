@@ -22,7 +22,7 @@ I'm currently gaining hands-on backend experience in a commercial product enviro
 
 ### GitHub
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sevinj-jabrayilova&theme=flat&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sevinj-jabrayilova&theme=flat&no-frame=true&column=6)
 
 ### 🎓 Education
 
