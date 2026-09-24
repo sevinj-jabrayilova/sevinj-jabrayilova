@@ -22,18 +22,7 @@ I'm currently gaining hands-on backend experience in a commercial product enviro
 
 ### GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sevinj-jabrayilova&show_icons=true&hide_border=true)
-
-### GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sevinj-jabrayilova&show_icons=true&hide_border=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=sevinj-jabrayilova&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevinj-jabrayilova&hide_border=true" />
-</p>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sevinj-jabrayilova&theme=flat&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🎓 Education
 
